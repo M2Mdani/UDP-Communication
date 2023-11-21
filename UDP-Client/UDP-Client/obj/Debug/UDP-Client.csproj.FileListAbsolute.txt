@@ -1,0 +1,8 @@
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\bin\Debug\UDP-Client.exe.config
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\bin\Debug\UDP-Client.exe
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\bin\Debug\UDP-Client.pdb
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\obj\Debug\UDP-Client.csproj.AssemblyReference.cache
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\obj\Debug\UDP-Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\obj\Debug\UDP-Client.csproj.CoreCompileInputs.cache
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\obj\Debug\UDP-Client.exe
+C:\Users\daniel.manchevski\source\repos\UDP-Communication\UDP-Client\UDP-Client\obj\Debug\UDP-Client.pdb
